@@ -1,0 +1,1597 @@
+country,release_year,count
+United States,2019,359
+United States,2017,351
+United States,2018,348
+United States,2020,332
+United States,2016,254
+United States,2015,141
+India,2017,101
+India,2018,95
+India,2019,84
+United States,2014,83
+United States,2013,77
+India,2016,73
+United Kingdom,2017,66
+India,2020,66
+India,2015,62
+United States,2012,62
+United Kingdom,2016,62
+United Kingdom,2018,54
+India,2013,53
+India,2014,51
+United States,2011,51
+United Kingdom,2020,47
+United States,2010,45
+Japan,2018,41
+United States,2008,39
+United States,2009,39
+India,2012,36
+United Kingdom,2019,35
+India,2010,35
+United Kingdom,2015,34
+Canada,2018,34
+United States,2007,33
+Spain,2018,32
+South Korea,2017,31
+South Korea,2020,30
+India,2011,29
+United States,2006,28
+South Korea,2016,28
+South Korea,2018,28
+Japan,2019,28
+Japan,2017,28
+Canada,2020,27
+India,2009,27
+Canada,2017,27
+Canada,2016,27
+India,2008,25
+Spain,2019,24
+United Kingdom,2014,24
+Spain,2017,24
+Spain,2020,22
+South Korea,2019,22
+France,2019,22
+Germany,2020,21
+United States,2005,21
+India,2005,20
+Brazil,2020,20
+India,2006,20
+France,2018,19
+Japan,2016,18
+Japan,2020,18
+United States,2003,18
+Brazil,2019,17
+Canada,2019,17
+Nigeria,2018,17
+Mexico,2016,17
+United States,2000,17
+France,2017,16
+Australia,2016,16
+China,2019,16
+United States,2004,16
+Mexico,2018,16
+France,2020,16
+Spain,2016,16
+Mexico,2020,16
+India,2007,16
+United States,2001,16
+Nigeria,2019,15
+Turkey,2014,15
+United Kingdom,2013,15
+France,2016,15
+Italy,2020,15
+United States,2002,15
+Mexico,2019,15
+Australia,2018,15
+United States,1998,15
+India,2004,15
+United States,1997,15
+Nigeria,2017,14
+Japan,2014,14
+Egypt,2018,14
+United States,1999,14
+Egypt,2017,13
+United States,2021,13
+Canada,2015,13
+Turkey,2015,13
+Brazil,2018,13
+United States,1988,13
+Indonesia,2018,13
+Mexico,2017,12
+United States,1996,12
+India,2003,12
+Australia,2019,12
+South Korea,2015,12
+South Korea,2012,11
+Thailand,2019,11
+Japan,2013,11
+Spain,2015,11
+"United Kingdom, United States",2018,11
+Indonesia,2020,11
+Turkey,2016,11
+Argentina,2019,11
+China,2017,11
+Canada,2014,11
+Philippines,2019,11
+Nigeria,2016,11
+France,2015,11
+United States,1993,10
+Philippines,2015,10
+United States,1990,10
+Japan,2015,10
+Argentina,2018,10
+Japan,2008,10
+United States,1995,10
+Argentina,2020,9
+United Kingdom,2011,9
+Indonesia,2019,9
+Turkey,2018,9
+United Kingdom,2012,9
+India,2002,9
+Colombia,2018,9
+Philippines,2018,9
+Brazil,2017,9
+United States,1991,9
+Philippines,2017,9
+Turkey,2013,9
+Australia,2015,9
+Germany,2016,9
+Australia,2020,9
+Egypt,2012,9
+Philippines,2016,9
+Australia,2017,9
+"Canada, United States",2017,9
+Indonesia,2016,8
+Taiwan,2015,8
+Turkey,2017,8
+Taiwan,2016,8
+China,2016,8
+South Korea,2014,8
+"Canada, United States",2018,8
+Taiwan,2020,8
+India,2001,8
+Germany,2019,8
+China,2018,8
+Thailand,2018,7
+Japan,2010,7
+"United Kingdom, United States",2016,7
+Egypt,2011,7
+Turkey,2019,7
+Taiwan,2019,7
+Indonesia,2017,7
+Argentina,2016,7
+India,2000,7
+Colombia,2019,7
+Taiwan,2017,7
+Taiwan,2018,7
+"United States, Canada",2019,7
+Italy,2016,6
+United States,1994,6
+"United States, Canada",2017,6
+India,1982,6
+"Canada, United States",2016,6
+Italy,2019,6
+"United States, Canada",2018,6
+Colombia,2020,6
+"France, Belgium",2018,6
+United Kingdom,2008,6
+Turkey,2020,6
+Egypt,2016,6
+Taiwan,2013,6
+Germany,2017,6
+Japan,2011,6
+France,2014,6
+Singapore,2014,6
+"United Kingdom, United States",2019,6
+South Africa,2020,6
+Malaysia,2018,6
+United States,1987,6
+Mexico,2015,6
+Philippines,2013,6
+Taiwan,2009,6
+India,1999,6
+Japan,2012,6
+"United States, Canada",2012,5
+Pakistan,2017,5
+Brazil,2016,5
+"United States, Japan",2019,5
+Egypt,2019,5
+Poland,2020,5
+United States,1976,5
+Nigeria,2015,5
+United States,1989,5
+Denmark,2018,5
+"United States, Canada",2016,5
+Ireland,2016,5
+"France, Belgium",2016,5
+China,2020,5
+India,1998,5
+Thailand,2017,5
+Egypt,2013,5
+South Korea,2013,5
+Turkey,2010,5
+Taiwan,2012,5
+Egypt,2010,5
+United States,1992,5
+"United Kingdom, United States",2017,5
+United Kingdom,2010,5
+Indonesia,2015,5
+Egypt,2006,5
+Norway,2020,5
+New Zealand,2016,4
+United States,1973,4
+"China, Hong Kong",2016,4
+New Zealand,2018,4
+"United States, Canada",2011,4
+United States,1986,4
+India,1990,4
+Germany,2015,4
+India,1995,4
+Thailand,2015,4
+"United Kingdom, United States",2013,4
+Thailand,2011,4
+Thailand,2010,4
+Egypt,2008,4
+Germany,2014,4
+Japan,2009,4
+Canada,2010,4
+United States,1967,4
+Taiwan,2011,4
+Lebanon,2017,4
+Germany,2018,4
+Pakistan,2016,4
+"United States, Mexico",2019,4
+India,1983,4
+Kuwait,2019,4
+South Africa,2017,4
+Philippines,2014,4
+India,1994,4
+Thailand,2016,4
+Japan,2006,4
+Egypt,2009,4
+"United Kingdom, United States",2020,4
+"United States, Canada",2020,4
+Russia,2015,4
+Netherlands,2018,4
+Argentina,2015,4
+Argentina,2017,4
+Italy,2018,4
+"France, Belgium",2017,4
+United Arab Emirates,2019,4
+Italy,2017,4
+Egypt,2014,4
+"Spain, France",2018,4
+Singapore,2011,4
+"United States, United Kingdom",2018,4
+"Mexico, United States",2018,4
+"United States, United Kingdom",2017,4
+"Canada, United States",2020,4
+"Canada, United States",2019,4
+"United States, United Kingdom",2009,4
+Hong Kong,2016,4
+India,1993,3
+Philippines,2012,3
+United States,1968,3
+India,1996,3
+Nigeria,2014,3
+United States,1974,3
+"France, Belgium",2019,3
+United States,1980,3
+United States,1981,3
+United States,1945,3
+"France, Belgium",2015,3
+United States,1943,3
+"United Kingdom, United States, Spain, Germany, Greece, Canada",2011,3
+Philippines,2008,3
+Norway,2016,3
+"United Kingdom, United States",2015,3
+United States,1984,3
+Denmark,2016,3
+"United Kingdom, United States",1997,3
+Pakistan,2018,3
+India,1997,3
+"United Kingdom, France",2015,3
+Chile,2018,3
+Malaysia,2015,3
+Chile,2016,3
+Saudi Arabia,2020,3
+Singapore,2009,3
+Turkey,2012,3
+"Belgium, France",2016,3
+"United States, France",2012,3
+"Canada, United States",2015,3
+Turkey,2005,3
+Singapore,2012,3
+Indonesia,2008,3
+Indonesia,2009,3
+Mexico,2014,3
+Thailand,2020,3
+Indonesia,2011,3
+Indonesia,2013,3
+Hong Kong,2019,3
+Malaysia,2017,3
+Thailand,2012,3
+South Africa,2019,3
+Sweden,2016,3
+Canada,2012,3
+Canada,2011,3
+Taiwan,2014,3
+Ireland,2017,3
+Sweden,2020,3
+Belgium,2017,3
+Lebanon,2018,3
+South Africa,2016,3
+Brazil,2015,3
+Brazil,2013,3
+South Korea,2009,3
+Turkey,2011,3
+United Arab Emirates,2018,3
+Australia,2012,3
+Hong Kong,1992,3
+Italy,2015,3
+"China, Hong Kong",2017,3
+United Kingdom,2009,3
+Hong Kong,1984,3
+Hong Kong,1983,3
+Israel,2018,3
+"United States, Canada",2010,3
+"United States, Canada",2013,3
+Netherlands,2020,3
+United Kingdom,1994,3
+Hong Kong,2009,3
+Netherlands,2015,3
+Russia,2019,3
+"United States, United Kingdom",2007,3
+Russia,2017,3
+India,1988,2
+Hong Kong,1993,2
+India,1985,2
+"United Kingdom, France, United States",2015,2
+India,1989,2
+South Africa,2015,2
+"South Korea, United States",2018,2
+Hong Kong,2010,2
+Hong Kong,1985,2
+Spain,2013,2
+Sweden,2019,2
+Sweden,2017,2
+"South Africa, United States",2015,2
+South Africa,2018,2
+"Germany, United States",2016,2
+Hong Kong,2013,2
+Hong Kong,1982,2
+Hong Kong,2014,2
+India,1986,2
+"Germany, United States",1999,2
+South Korea,2010,2
+"Germany, United States",2008,2
+Hong Kong,1980,2
+Hong Kong,1978,2
+France,2012,2
+"Germany, United States",2009,2
+France,2011,2
+"Sweden, United States",2016,2
+India,1976,2
+South Africa,2013,2
+South Africa,2012,2
+"United Kingdom, Canada, United States",2019,2
+Russia,2018,2
+Poland,2019,2
+Iceland,2020,2
+United Kingdom,1992,2
+United Kingdom,1998,2
+United Kingdom,1999,2
+United Kingdom,2001,2
+United Kingdom,2004,2
+India,1979,2
+"Poland, United States",2018,2
+Romania,2019,2
+United Kingdom,2006,2
+"United Kingdom, Canada",2019,2
+India,1977,2
+India,1971,2
+India,1972,2
+India,1973,2
+India,1974,2
+"United Kingdom, Germany",2012,2
+United Arab Emirates,2016,2
+Poland,2018,2
+Singapore,2016,2
+Taiwan,2002,2
+Taiwan,2004,2
+Taiwan,2005,2
+Germany,2013,2
+"Hong Kong, China",2013,2
+Thailand,2007,2
+Thailand,2009,2
+India,1975,2
+Thailand,2014,2
+"France, Belgium",2013,2
+Singapore,2015,2
+"France, United States",2018,2
+"Hong Kong, China",2016,2
+Turkey,2004,2
+Turkey,2006,2
+Turkey,2009,2
+India,1980,2
+Poland,2017,2
+Nigeria,2020,2
+United States,1958,2
+"Mexico, Spain",2020,2
+"United States, Greece",2016,2
+Mexico,2013,2
+Mexico,2012,2
+Mexico,2010,2
+Mexico,2004,2
+"United States, Germany",2005,2
+"United States, Germany",2006,2
+"United States, India",2011,2
+Ireland,2018,2
+"United States, India",2015,2
+Canada,2009,2
+"United States, Ireland",2016,2
+Canada,2007,2
+Canada,2006,2
+Canada,1998,2
+"United States, France, Japan",1997,2
+"Canada, United States",1997,2
+"India, United States",2019,2
+Philippines,2020,2
+"United States, France",2014,2
+"United States, France",2008,2
+"United States, Czech Republic",2018,2
+"India, United States",2015,2
+"Mexico, United States",2017,2
+"Mexico, United States",2019,2
+"Mexico, United States",2020,2
+"United States, China",2017,2
+"United States, China",2016,2
+Chile,2013,2
+Chile,2015,2
+Chile,2019,2
+Netherlands,2017,2
+"Bulgaria, United States",2017,2
+Lebanon,2019,2
+"United States, Canada",2015,2
+Japan,2002,2
+"United States, United Kingdom",2008,2
+"United States, United Kingdom",2014,2
+"United States, United Kingdom",2019,2
+"United States, United Kingdom",2020,2
+Japan,2004,2
+Japan,2003,2
+Japan,2001,2
+"United States, Japan",2020,2
+Israel,2017,2
+Australia,1998,2
+Japan,1998,2
+"Argentina, Spain",2018,2
+"Argentina, Spain",2017,2
+"Italy, United States",2017,2
+"United States, United Kingdom",2005,2
+Japan,2005,2
+Japan,2007,2
+"Australia, United Arab Emirates",2017,2
+"Australia, United States",2014,2
+"United States, Spain",2016,2
+"United States, Spain",2013,2
+Israel,2016,2
+"Australia, United States",2018,2
+"Australia, United States",2019,2
+Israel,2015,2
+"Japan, United States",2015,2
+"Japan, United States",2016,2
+"Japan, United States",2020,2
+Bangladesh,2018,2
+Belgium,2019,2
+"United States, Mexico",2017,2
+Netherlands,2019,2
+Hong Kong,1995,2
+"United States, Canada",2014,2
+"United States, Canada",2000,2
+"Denmark, United States",2020,2
+Pakistan,2015,2
+China,2010,2
+"United Kingdom, United States",2006,2
+"United Kingdom, United States",2008,2
+"United Kingdom, United States",2011,2
+"United Kingdom, United States",2012,2
+China,2012,2
+China,2015,2
+Colombia,2012,2
+Egypt,2004,2
+United States,1960,2
+United States,1942,2
+United States,1944,2
+United States,1946,2
+Colombia,2017,2
+New Zealand,2015,2
+"China, Hong Kong",2018,2
+Colombia,2016,2
+"United States, Australia",2015,2
+Egypt,1976,2
+Peru,2017,2
+Egypt,2007,2
+China,2008,2
+United States,1979,2
+United States,1978,2
+Egypt,2020,2
+Egypt,2015,2
+"United States, Australia",2007,2
+"United States, Australia",2003,2
+"United States, Australia",2010,2
+"United Kingdom, Japan, United States",1992,2
+"United States, Canada",2007,2
+United States,1977,2
+Hong Kong,2001,1
+"Ireland, France, Iceland, United States, Mexico, Belgium, United Kingdom, Hong Kong",2019,1
+Hong Kong,2018,1
+"Ireland, Luxembourg, Belgium",2018,1
+"Ireland, South Africa",2016,1
+"Hong Kong, China",2006,1
+"Hong Kong, China",2004,1
+"Hong Kong, China",1997,1
+"Ireland, United Kingdom, Greece, France, Netherlands",2015,1
+"Ireland, United Kingdom",2017,1
+"Ireland, United States, France",2018,1
+"Hong Kong, China",1986,1
+"Ireland, United States",2011,1
+"Ireland, United Kingdom, Italy, United States",2016,1
+"Ireland, United Kingdom, United States",2016,1
+"Ireland, United Kingdom, United States",1989,1
+"Ireland, United Kingdom",2016,1
+Israel,2012,1
+"India, Canada",2014,1
+Hong Kong,2017,1
+"Israel, Germany, Poland, Luxembourg, Belgium, France, United States",2013,1
+Hong Kong,2002,1
+"Italy, Canada, France",2011,1
+"Italy, Belgium",2019,1
+Hong Kong,2008,1
+Italy,2013,1
+Italy,1955,1
+"Israel, United States",2019,1
+India,1987,1
+"Israel, United States",2018,1
+"Israel, United States",2015,1
+"Israel, Sweden, Germany, Netherlands",2015,1
+"Israel, Germany, France",2016,1
+Israel,2014,1
+"Israel, Germany",2017,1
+Israel,2020,1
+India,1984,1
+India,2021,1
+"India, Australia",2010,1
+India,1981,1
+Hong Kong,2011,1
+"Ireland, Canada, United States, United Kingdom",2010,1
+"India, France",2003,1
+"India, France",2014,1
+Hong Kong,2015,1
+India,1978,1
+"India, France",2018,1
+"Ireland, Canada, United Kingdom, United States",2015,1
+India,1962,1
+"Hong Kong, China, United States",2004,1
+"Hong Kong, China, Singapore",2010,1
+"Hong Kong, China",2019,1
+"Hong Kong, China",2018,1
+"Hong Kong, China",2017,1
+"India, United Kingdom, China, Canada, Japan, South Korea, United States",2019,1
+"India, United States",2008,1
+"Hong Kong, Iceland, United States",2018,1
+"India, United States",2010,1
+India,1964,1
+"India, Soviet Union",1991,1
+"India, United States",2016,1
+"India, United States",2017,1
+"India, Soviet Union",1984,1
+"Hong Kong, China, United States",2015,1
+"Hong Kong, Taiwan",2007,1
+"Ireland, Canada, Luxembourg, United States, United Kingdom, Philippines, India",2017,1
+Hungary,2018,1
+"India, Turkey",2019,1
+Iceland,2015,1
+"Iceland, Sweden, Belgium",2018,1
+"India, Switzerland",2013,1
+"India, United Kingdom",2016,1
+Hungary,2019,1
+Hungary,2017,1
+"India, United Kingdom, Canada, United States",2019,1
+Hungary,2016,1
+"Hong Kong, United States",2018,1
+"Hong Kong, United States",2014,1
+"Hong Kong, United States",2007,1
+"Hong Kong, United States",1973,1
+India,1959,1
+"India, Pakistan",2010,1
+"India, Nepal",2018,1
+"India, United States",2018,1
+"India, Germany",2015,1
+"Hong Kong, China",2010,1
+"Hong Kong, China",2008,1
+"Hong Kong, China",2007,1
+"Indonesia, United Kingdom",2020,1
+"India, Germany, Austria",2018,1
+"Indonesia, United States",2018,1
+"India, Germany",2011,1
+"India, Mexico",2017,1
+"Iran, France",2011,1
+Iceland,2017,1
+Ireland,2015,1
+"India, France",2017,1
+"India, France",2015,1
+"Ireland, Canada",2018,1
+"Hong Kong, China",2011,1
+India,1969,1
+"Indonesia, South Korea, Singapore",2018,1
+"Hong Kong, China",2014,1
+"Indonesia, Singapore",2018,1
+"Indonesia, Singapore",2012,1
+"Indonesia, Netherlands",2017,1
+India,1966,1
+Indonesia,2014,1
+Indonesia,2012,1
+"India, Germany, France",2010,1
+"India, Iran",2018,1
+"India, Japan",2010,1
+"India, Malaysia",1960,1
+Indonesia,2005,1
+Indonesia,2003,1
+Indonesia,2002,1
+India,1992,1
+"France, Canada, United States",2016,1
+Hong Kong,1997,1
+"Canada, United States",2004,1
+"Canada, Spain",2016,1
+"Canada, Spain, France",2013,1
+"Canada, United Kingdom",2016,1
+"Canada, United Kingdom",2020,1
+"Canada, United Kingdom, Netherlands",2015,1
+"Canada, United Kingdom, United States",2014,1
+"Canada, United Kingdom, United States",2016,1
+"Canada, United States",2008,1
+"Canada, South Africa",2018,1
+"Canada, United States",2009,1
+"Canada, United States",2012,1
+"Canada, United States",2013,1
+"Canada, United States",2014,1
+"Canada, United States, Cayman Islands",2021,1
+"Canada, United States, France",2015,1
+"Canada, United States, France",2017,1
+"Canada, South Korea, United States",2014,1
+"Canada, Norway",2019,1
+Hong Kong,1994,1
+"Canada, Hungary, United States",2020,1
+"Canada, Brazil",2019,1
+"Canada, France",2016,1
+"Canada, France, Italy, Morocco, United States",2014,1
+"Canada, France, United States",2012,1
+"Canada, Germany",2019,1
+"Canada, Germany, France, United States",2014,1
+"Canada, Germany, South Africa",2017,1
+"Canada, India",2014,1
+"Canada, Nigeria",2010,1
+"Canada, India",2017,1
+"Canada, India, Thailand, United States, United Arab Emirates",2016,1
+"Canada, Ireland, United States",2016,1
+"Canada, Japan, Netherlands",2017,1
+"Canada, Japan, United States",2018,1
+"Canada, Luxembourg",2014,1
+"Canada, Mexico, Germany, South Africa",2015,1
+"Canada, United States, Germany",2018,1
+"Canada, United States, India, United Kingdom",2010,1
+"Canada, United States, Ireland",2020,1
+"China, Spain, South Korea, United States",2020,1
+"China, Hong Kong",2015,1
+"China, Hong Kong",2019,1
+"China, Hong Kong, United States",2016,1
+"China, India, Nepal",2017,1
+"China, Japan",2018,1
+"China, Morocco, Hong Kong",2018,1
+"China, South Korea, United States",2015,1
+"China, Taiwan",2019,1
+"Canada, United States, United Kingdom",2015,1
+"China, United Kingdom",2018,1
+"China, United States",2016,1
+"China, United States",2020,1
+"China, United States, Australia",2018,1
+"China, United States, United Kingdom",2018,1
+Colombia,2008,1
+Colombia,2010,1
+"China, Hong Kong",2014,1
+"China, Hong Kong",2011,1
+"China, Hong Kong",2005,1
+"China, Germany, India, United States",2015,1
+"Canada, United States, United Kingdom",2016,1
+"Canada, United States, United Kingdom",2020,1
+"Canada, United States, United Kingdom, France, Luxembourg",2011,1
+Chile,2017,1
+Chile,2020,1
+"Chile, Argentina",2018,1
+"Chile, Argentina, France, Spain, United States",2016,1
+"Chile, France",2016,1
+"Chile, Italy",2020,1
+"Chile, Peru",2017,1
+"Chile, Spain, Argentina, Germany",2015,1
+"Chile, United States, France",2016,1
+China,2011,1
+"China, Canada, United States",2017,1
+"China, Canada, United States",2018,1
+"Canada, Belgium",2018,1
+"Canada, Australia",2019,1
+"Canada, Australia",2015,1
+"Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",2017,1
+Australia,1992,1
+Australia,1999,1
+Australia,2005,1
+Australia,2007,1
+Australia,2009,1
+Australia,2011,1
+Australia,2013,1
+"Australia, Canada",2017,1
+"Australia, United Kingdom, Canada",2014,1
+"Australia, Canada",2018,1
+"Australia, France",2013,1
+"Australia, France, Ireland",2010,1
+"Australia, India",2016,1
+"Australia, Iraq",2015,1
+"Australia, New Zealand",2020,1
+"Australia, New Zealand, United States",2017,1
+Australia,1981,1
+"Argentina, Uruguay, Spain, France",2017,1
+"Argentina, Uruguay, Serbia",2018,1
+"Argentina, United States, Mexico",2020,1
+Argentina,1998,1
+Argentina,2004,1
+Argentina,2006,1
+Argentina,2007,1
+"Argentina, Brazil, France, Poland, Germany, Denmark",2017,1
+"Argentina, Chile",2017,1
+"Argentina, Chile, Peru",2015,1
+"Argentina, France",2017,1
+"Argentina, France, United States, Germany, Qatar",2017,1
+"Argentina, Italy",2017,1
+"Argentina, Spain",1993,1
+"Argentina, Spain",2006,1
+"Argentina, Spain",2013,1
+"Argentina, Spain",2016,1
+"Argentina, United States",2019,1
+"Australia, United Kingdom",1992,1
+"Australia, United Kingdom, United Arab Emirates, Canada",2015,1
+Canada,2013,1
+"Brazil, United Kingdom",2020,1
+Brazil,2012,1
+Brazil,2014,1
+"Brazil, France",2017,1
+"Brazil, France",2020,1
+"Brazil, France, Germany",2002,1
+"Brazil, India, China, United States",2017,1
+"Brazil, Netherlands, United States, Colombia, Austria, Germany",2016,1
+"Brazil, United States",2012,1
+"Australia, United Kingdom, United States, New Zealand, Italy, France",2014,1
+Bulgaria,2018,1
+"Bulgaria, United States",2016,1
+"Bulgaria, United States, Spain, Canada",2014,1
+Cambodia,2017,1
+"Cambodia, United States",2017,1
+Canada,2004,1
+Canada,2008,1
+"Belgium, United Kingdom, United States",2018,1
+"Belgium, Netherlands",2020,1
+"Belgium, Ireland, Netherlands, Germany, Afghanistan",2016,1
+Belgium,2020,1
+"Australia, United States",1979,1
+"Australia, United States",1990,1
+"Australia, United States",2015,1
+"Australia, United States",2017,1
+Austria,2016,1
+Austria,2017,1
+Austria,2019,1
+Austria,2020,1
+"Austria, Czech Republic",2014,1
+"Austria, Germany",2020,1
+"Austria, Iraq, United States",2018,1
+"Austria, United States",2017,1
+Belarus,2016,1
+Belgium,2015,1
+Belgium,2018,1
+Colombia,2015,1
+"Colombia, Mexico",2018,1
+"Colombia, Mexico, United States",2008,1
+"France, United Kingdom, United States",2013,1
+"France, Senegal, Belgium",2019,1
+"France, South Korea, Japan",2016,1
+"France, South Korea, Japan",2019,1
+"France, Switzerland, Spain, United States, United Arab Emirates",2009,1
+"France, United Kingdom",2018,1
+"France, United Kingdom, India",1993,1
+"France, United Kingdom, United States",2010,1
+"France, United Kingdom, United States",2016,1
+Germany,2006,1
+"France, United States",2002,1
+"France, United States",2010,1
+"France, United States",2012,1
+"France, United States",2019,1
+"France, United States, Canada",2015,1
+"France, United States, Mexico",2006,1
+Georgia,2018,1
+"France, Qatar",2016,1
+"France, Norway, Lebanon, Belgium",1999,1
+"France, New Zealand",2019,1
+"France, Netherlands, South Africa, Finland",2017,1
+"France, Egypt",1997,1
+"France, Egypt",1999,1
+"France, Germany",2015,1
+"France, Germany, Czech Republic, Belgium",2016,1
+"France, Germany, Switzerland",2014,1
+"France, Iran, United States",2018,1
+"France, Japan",2017,1
+"France, Japan, United States",2000,1
+"France, Lebanon",1982,1
+"France, Lebanon, United Kingdom",2007,1
+"France, Luxembourg, Canada",2019,1
+"France, Luxembourg, United States",2018,1
+"France, Malta, United States",2015,1
+"France, Morocco",2015,1
+"France, Netherlands, Singapore",2019,1
+"Georgia, Germany, France",2017,1
+Germany,2007,1
+"France, China, Japan, United States",2018,1
+"Ghana, United States",2018,1
+"Germany, United States, Hong Kong, Singapore",2012,1
+"Germany, United States, Italy",2014,1
+"Germany, United States, Sweden",2018,1
+"Germany, United States, United Kingdom, Canada",2000,1
+Ghana,2017,1
+Ghana,2018,1
+Ghana,2019,1
+"Greece, United States",2017,1
+Germany,2008,1
+Guatemala,2017,1
+Hong Kong,1973,1
+Hong Kong,1975,1
+Hong Kong,1981,1
+Hong Kong,1988,1
+Hong Kong,1989,1
+Hong Kong,1990,1
+"Germany, United States, France",2009,1
+"Germany, United States, Canada",2005,1
+"Germany, United States",2020,1
+"Germany, United States",2000,1
+"Germany, Australia",2017,1
+"Germany, Australia, France, China",2015,1
+"Germany, Belgium",2017,1
+"Germany, Canada, United States",2001,1
+"Germany, China, United Kingdom",2020,1
+"Germany, Czech Republic",2020,1
+"Germany, France, Luxembourg, United Kingdom, United States",2015,1
+"Germany, France, Russia",2017,1
+"Germany, France, United States, Canada, United Kingdom",2010,1
+"Germany, Italy",2017,1
+"Germany, Jordan, Netherlands",2016,1
+"Germany, Sri Lanka",2010,1
+"Germany, United Kingdom",2014,1
+"Germany, United Kingdom",2017,1
+"Germany, United Kingdom, United States",2008,1
+"France, Egypt",1989,1
+"Italy, France",2013,1
+"Colombia, Mexico, United States",2016,1
+"Denmark, United Kingdom, South Africa, Sweden, Belgium",2014,1
+"Denmark, France, United States, Sweden",2013,1
+"Denmark, Germany, Belgium, United Kingdom, France",2013,1
+"Denmark, Germany, Belgium, United Kingdom, France, Sweden",2013,1
+"Denmark, Indonesia, Finland, Norway, United Kingdom, Israel, France, United States, Germany, Netherlands",2014,1
+"Denmark, Singapore, Canada, United States",2019,1
+"Denmark, Spain",2016,1
+"Denmark, Sweden, Israel, United States",2017,1
+"Denmark, United Kingdom, Sweden",2015,1
+Egypt,1979,1
+"Denmark, United States",2016,1
+"Denmark, Zimbabwe",2014,1
+Egypt,1954,1
+Egypt,1956,1
+Egypt,1958,1
+Egypt,1963,1
+Egypt,1970,1
+"Denmark, France, Poland",1989,1
+"Denmark, France, Belgium, Italy, Netherlands, United States, United Kingdom",2019,1
+"Denmark, China",2016,1
+"Denmark, Brazil, France, Portugal, Sweden",2014,1
+"Colombia, Peru, United Kingdom",2018,1
+"Colombia, United States",2003,1
+Croatia,2018,1
+"Croatia, Slovenia, Serbia, Montenegro",2015,1
+Cyprus,2017,1
+"Czech Republic, France",2016,1
+"Czech Republic, Slovakia",2016,1
+"Czech Republic, United Kingdom, France",2009,1
+"Czech Republic, United States",2017,1
+"Czech Republic, United States",2018,1
+Denmark,2007,1
+Denmark,2012,1
+Denmark,2015,1
+Denmark,2017,1
+Denmark,2020,1
+Egypt,1973,1
+Egypt,1981,1
+"France, Canada, Italy, United States, China",2015,1
+"France, Belgium, Luxembourg, Romania, Canada, United States",2018,1
+"France, Belgium",2007,1
+"France, Belgium",2011,1
+"France, Belgium",2014,1
+"France, Belgium",2020,1
+"France, Belgium, China, United States",2017,1
+"France, Belgium, Italy",1991,1
+"France, Belgium, Luxembourg, Cambodia,",2018,1
+"France, Belgium, Spain",2013,1
+Egypt,1982,1
+"France, Belgium, United States",2011,1
+"France, Brazil, Spain, Belgium",2020,1
+"France, Canada",2016,1
+"France, Canada",2017,1
+"France, Canada",2018,1
+"France, Canada, Belgium",2015,1
+"France, Canada, China, Cambodia",2016,1
+"France, Australia, Germany",2020,1
+"France, Algeria",2020,1
+France,2010,1
+France,2009,1
+Egypt,2005,1
+"Egypt, Algeria",1979,1
+"Egypt, Austria, United States",2018,1
+"Egypt, France",1994,1
+"Egypt, France",2016,1
+Finland,2018,1
+"Finland, France",2019,1
+"Finland, Germany",2020,1
+"Finland, Germany, Belgium",2019,1
+"Finland, Sweden, Norway, Latvia, Germany",2016,1
+"Finland, United States",2019,1
+France,1974,1
+France,2002,1
+France,2004,1
+France,2008,1
+"Italy, France",1955,1
+Zimbabwe,2017,1
+"Italy, France",2015,1
+"United Kingdom, Egypt, United States",2013,1
+United States,1985,1
+"United States,",2018,1
+"United States, Argentina",2015,1
+"United States, Argentina",2020,1
+"United States, Australia",2005,1
+"United States, Australia",2008,1
+"United States, Australia",2018,1
+"United States, Australia, China",2017,1
+"United States, Australia, Mexico",2010,1
+"United States, Australia, Samoa, United Kingdom",2017,1
+"United States, Australia, South Africa, United Kingdom",2017,1
+"United States, Belgium, Canada",2011,1
+"United States, Bermuda, Ecuador",2014,1
+"United States, Botswana",2016,1
+"United States, Brazil",2012,1
+"United States, Brazil, India, Uganda, China",2018,1
+"United States, Brazil, South Korea, Mexico, Japan, Germany",2018,1
+United States,1983,1
+United States,1982,1
+United States,1972,1
+"United Kingdom, West Germany",1972,1
+"United Kingdom, United States, Dominican Republic",2017,1
+"United Kingdom, United States, France",2011,1
+"United Kingdom, United States, France, Germany",2002,1
+"United Kingdom, United States, Germany, Denmark, Belgium, Japan",2015,1
+"United Kingdom, United States, Japan",2005,1
+"United Kingdom, United States, Morocco",2014,1
+"United Kingdom, United States, Spain, Germany, Greece, Canada",2012,1
+United States,1947,1
+United States,1971,1
+United States,1954,1
+United States,1955,1
+United States,1956,1
+United States,1962,1
+United States,1963,1
+United States,1965,1
+United States,1969,1
+"United States, Bulgaria",2016,1
+"United States, Bulgaria",2017,1
+"United States, Bulgaria",2020,1
+"United States, Colombia",2018,1
+"United States, Chile, Israel",2015,1
+"United States, China",2008,1
+"United States, China",2010,1
+"United States, China",2019,1
+"United States, China, Canada",2018,1
+"United States, China, Colombia",2018,1
+"United States, China, Hong Kong",2013,1
+"United States, Colombia, Mexico",2017,1
+"United States, Chile",2012,1
+"United States, Czech Republic",2004,1
+"United States, Czech Republic",2006,1
+"United States, Czech Republic",2019,1
+"United States, Czech Republic, United Kingdom",2005,1
+"United States, Denmark",2017,1
+"United States, East Germany, West Germany",1971,1
+"United States, France",1992,1
+"United States, Chile",2015,1
+"United States, Canada, United Kingdom",2020,1
+"United States, Cambodia",2016,1
+"United States, Canada",2008,1
+"United States, Canada",1989,1
+"United States, Canada",1993,1
+"United States, Canada",2002,1
+"United States, Canada",2003,1
+"United States, Canada",2004,1
+"United States, Canada",2005,1
+"United States, Canada",2006,1
+"United States, Canada",2009,1
+"United States, Canada, United Kingdom",2010,1
+"United States, Canada, Belgium, United Kingdom",2012,1
+"United States, Canada, China",2016,1
+"United States, Canada, France",2009,1
+"United States, Canada, Germany",2004,1
+"United States, Canada, Indonesia, United Kingdom, China, Singapore",2017,1
+"United States, Canada, Ireland",2016,1
+"United States, Canada, Japan, Panama",2015,1
+"United Kingdom, United States, Czech Republic",2018,1
+"United Kingdom, United States, Canada",2017,1
+"United Kingdom, United States, Australia",2015,1
+"United Kingdom, India, Sweden",2017,1
+"United Kingdom, Germany, United Arab Emirates, New Zealand",2016,1
+"United Kingdom, Germany, United States",2008,1
+"United Kingdom, Germany, United States, France",2020,1
+"United Kingdom, Hong Kong",2016,1
+"United Kingdom, Hungary, Australia",2019,1
+"United Kingdom, India",2007,1
+"United Kingdom, India",2012,1
+"United Kingdom, India, United States",2013,1
+"United Kingdom, Germany, Canada, United States",2002,1
+"United Kingdom, India, United States",2017,1
+"United Kingdom, Ireland",2007,1
+"United Kingdom, Ireland",2017,1
+"United Kingdom, Ireland, United States",2018,1
+"United Kingdom, Israel, Russia",2016,1
+"United Kingdom, Italy",2019,1
+"United Kingdom, Italy",2020,1
+"United Kingdom, Germany, France, United States",2011,1
+"United Kingdom, Germany, Canada",2016,1
+"United Kingdom, Japan, United States",2014,1
+"United Kingdom, France, Canada, Belgium, United States",2014,1
+"United Kingdom, France",2000,1
+"United Kingdom, France",2011,1
+"United Kingdom, France",2016,1
+"United Kingdom, France, Belgium",2016,1
+"United Kingdom, France, Belgium, Canada, United States",2017,1
+"United Kingdom, France, Belgium, United States",2017,1
+"United Kingdom, France, Belgium, United States, China",2020,1
+"United Kingdom, France, Germany",2016,1
+"United Kingdom, Germany",2020,1
+"United Kingdom, France, Germany, Spain",2020,1
+"United Kingdom, France, Germany, United States",2016,1
+"United Kingdom, France, United States",2010,1
+"United Kingdom, France, United States",2018,1
+"United Kingdom, France, United States, Belgium",2017,1
+"United Kingdom, France, United States, Belgium, Luxembourg, China, Germany",2016,1
+"United Kingdom, Germany",2018,1
+"United Kingdom, Italy, Israel, Peru, United States",2016,1
+"United Kingdom, Japan, United States",2019,1
+"United Kingdom, United States, Australia",2010,1
+"United Kingdom, United States",1993,1
+"United Kingdom, Spain, United States, Germany",2018,1
+"United Kingdom, Thailand",2006,1
+"United Kingdom, Ukraine, United States",2015,1
+"United Kingdom, United States",1962,1
+"United Kingdom, United States",1968,1
+"United Kingdom, United States",1971,1
+"United Kingdom, United States",1991,1
+"United Kingdom, United States",1995,1
+"United Kingdom, Spain, Belgium",2016,1
+"United Kingdom, United States",1999,1
+"United Kingdom, United States",2002,1
+"United Kingdom, United States",2004,1
+"United Kingdom, United States",2005,1
+"United Kingdom, United States",2007,1
+"United Kingdom, United States",2009,1
+"United Kingdom, United States",2014,1
+"United Kingdom, Spain, United States",2016,1
+"United Kingdom, Spain",2020,1
+"United Kingdom, Jordan, Qatar, Iran",2016,1
+"United Kingdom, Norway, Denmark, Germany, Sweden",2012,1
+"United Kingdom, Kenya",2018,1
+"United Kingdom, Lithuania",2015,1
+"United Kingdom, Malawi",2019,1
+"United Kingdom, Namibia, South Africa, Zimbabwe, United States",2017,1
+"United Kingdom, New Zealand",2015,1
+"United Kingdom, Nigeria",2011,1
+"United Kingdom, Nigeria",2017,1
+"United Kingdom, Pakistan",2018,1
+"United Kingdom, South Korea",2015,1
+"United Kingdom, Poland",2018,1
+"United Kingdom, Poland, United States",2016,1
+"United Kingdom, Russia",2016,1
+"United Kingdom, Russia, United States",2015,1
+"United Kingdom, Singapore",2017,1
+"United Kingdom, South Africa",2016,1
+"United Kingdom, South Africa, Australia, United States",2018,1
+"United States, France",2010,1
+"United States, France",2013,1
+"United States, France",2016,1
+"United States, United Kingdom",1944,1
+"United States, Sweden",2017,1
+"United States, Sweden, Norway",2011,1
+"United States, Taiwan",2018,1
+"United States, Thailand",2020,1
+"United States, United Arab Emirates",2002,1
+"United States, United Arab Emirates",2009,1
+"United States, United Arab Emirates",2015,1
+"United States, United Kingdom",1977,1
+"United States, Sweden",2015,1
+"United States, United Kingdom",1982,1
+"United States, United Kingdom",1986,1
+"United States, United Kingdom",1992,1
+"United States, United Kingdom",2001,1
+"United States, United Kingdom",2003,1
+"United States, United Kingdom",2006,1
+"United States, United Kingdom",2010,1
+"United States, Sweden",2016,1
+"United States, Spain, Italy",2016,1
+"United States, United Kingdom",2012,1
+"United States, Russia",2014,1
+"United States, Nicaragua",2015,1
+"United States, Nigeria",2018,1
+"United States, Norway, Canada",2019,1
+"United States, Philippines",2020,1
+"United States, Poland",2019,1
+"United States, Russia",2012,1
+"United States, Russia",2013,1
+"United States, Senegal",2015,1
+"United States, Spain, Germany",2015,1
+"United States, South Africa",2008,1
+"United States, South Africa",2017,1
+"United States, South Africa",2018,1
+"United States, South Korea",2008,1
+"United States, South Korea, China",2016,1
+"United States, South Korea, China",2020,1
+"United States, South Korea, Japan",2017,1
+"United States, United Kingdom",2011,1
+"United States, United Kingdom",2015,1
+"United States, New Zealand, Japan",2007,1
+"Uruguay, Guatemala",2019,1
+Uruguay,2017,1
+Uruguay,2019,1
+Uruguay,2020,1
+"Uruguay, Argentina",2019,1
+"Uruguay, Argentina, Germany, Spain",2004,1
+"Uruguay, Argentina, Spain",2018,1
+"Uruguay, Germany",2019,1
+"Uruguay, Spain, Mexico",2018,1
+"United States, Uruguay",2015,1
+Venezuela,2017,1
+"Venezuela, Colombia",2007,1
+Vietnam,2014,1
+Vietnam,2015,1
+Vietnam,2016,1
+Vietnam,2019,1
+Vietnam,2020,1
+"United States, Venezuela",2016,1
+"United States, United Kingdom, Spain, South Korea",2015,1
+"United States, United Kingdom, Australia",2009,1
+"United States, United Kingdom, France",2008,1
+"United States, United Kingdom, Australia",2010,1
+"United States, United Kingdom, Australia",2013,1
+"United States, United Kingdom, Australia",2017,1
+"United States, United Kingdom, Canada",2007,1
+"United States, United Kingdom, Canada, China",2014,1
+"United States, United Kingdom, Canada, Japan",2010,1
+"United States, United Kingdom, Denmark, Sweden",2014,1
+"United States, United Kingdom, France",2009,1
+"United States, United Kingdom, Morocco",2015,1
+"United States, United Kingdom, France",2015,1
+"United States, United Kingdom, France, Germany, Japan",2013,1
+"United States, United Kingdom, Germany",2005,1
+"United States, United Kingdom, Germany",2019,1
+"United States, United Kingdom, India",2020,1
+"United States, United Kingdom, Italy",2001,1
+"United States, United Kingdom, Japan",2016,1
+"United States, New Zealand, United Kingdom",2011,1
+"United States, New Zealand",2018,1
+"United States, France",2018,1
+"United States, Germany, United Kingdom",2003,1
+"United States, Germany",2009,1
+"United States, Germany",2011,1
+"United States, Germany",2019,1
+"United States, Germany, Australia",2005,1
+"United States, Germany, Canada",1999,1
+"United States, Germany, Canada",2001,1
+"United States, Germany, Mexico",1998,1
+"United States, Germany, United Kingdom, Australia",2009,1
+"United States, Germany",2004,1
+"United States, Germany, United Kingdom, Italy",2009,1
+"United States, Greece, Brazil",2016,1
+"United States, Greece, United Kingdom",2014,1
+"United States, Hong Kong",1991,1
+"United States, Hong Kong",2006,1
+"United States, Hong Kong",2016,1
+"United States, Hungary",2016,1
+"United States, Germany",2007,1
+"United States, Germany",2002,1
+"United States, Iceland",2017,1
+"United States, France, Japan",1996,1
+"United States, France",2019,1
+"United States, France",2020,1
+"United States, France, Canada",2020,1
+"United States, France, Canada, Belgium",2013,1
+"United States, France, Canada, Lebanon, Qatar",2014,1
+"United States, France, Canada, Spain",2003,1
+"United States, France, Italy, United Kingdom",2010,1
+"United States, France, Japan",1998,1
+"United States, Germany",2000,1
+"United States, France, Japan",1999,1
+"United States, France, Japan",2019,1
+"United States, France, Mexico",1993,1
+"United States, France, Serbia",2014,1
+"United States, France, South Korea, Indonesia",2016,1
+"United States, France, United Kingdom, Japan",2005,1
+"United States, Germany",1997,1
+"United States, Hungary, Ireland, Canada",2013,1
+"United States, India",2012,1
+"United States, New Zealand",2005,1
+"United States, Mexico",2006,1
+"United States, Japan",2011,1
+"United States, Japan",2017,1
+"United States, Japan, Canada",2014,1
+"United States, Japan, Canada",2018,1
+"United States, Kazakhstan",2016,1
+"United States, Malta, France, United Kingdom",2006,1
+"United States, Mexico",1990,1
+"United States, Mexico",2012,1
+"United States, Japan",2009,1
+"United States, Mexico",2016,1
+"United States, Mexico",2018,1
+"United States, Mexico, Colombia",2019,1
+"United States, Mexico, Spain, Malta",2018,1
+"United States, Morocco",2015,1
+"United States, Netherlands, Japan, France",2002,1
+"United States, New Zealand",2003,1
+"United States, Japan",2010,1
+"United States, Japan",2003,1
+"United States, India",2013,1
+"United States, Ireland, United Kingdom, India",2015,1
+"United States, India",2014,1
+"United States, India",2020,1
+"United States, India, Bangladesh",2012,1
+"United States, India, South Korea, China",2019,1
+"United States, India, United Arab Emirates",2014,1
+"United States, Indonesia",2015,1
+"United States, Ireland",2010,1
+"United States, Israel, Italy, South Africa",2013,1
+"United States, Japan",1985,1
+"United States, Israel, United Kingdom, Canada",2018,1
+"United States, Italy",2002,1
+"United States, Italy",2009,1
+"United States, Italy",2011,1
+"United States, Italy",2013,1
+"United States, Italy",2016,1
+"United States, Italy, United Kingdom, Liechtenstein",1965,1
+"United Kingdom, Finland, Germany",2016,1
+"United Kingdom, Denmark, Canada, Croatia",2012,1
+"Italy, France",2016,1
+"United Kingdom, Czech Republic, United States, Germany, Bahamas",2006,1
+"Norway, Germany, Sweden",2017,1
+"Norway, Iceland, United States",2018,1
+"Norway, Sweden",2019,1
+"Norway, United Kingdom, France, Ireland",2014,1
+"Norway, United States",2014,1
+Pakistan,2011,1
+Pakistan,2012,1
+Pakistan,2013,1
+Pakistan,2014,1
+"Pakistan, Norway, United States",2014,1
+"Pakistan, United Arab Emirates",2018,1
+"Pakistan, United States",2015,1
+"Pakistan, United States",2020,1
+"Paraguay, Argentina",2018,1
+Peru,2015,1
+Peru,2018,1
+"Peru, Germany, Norway",2017,1
+"Norway, Germany",2016,1
+"Norway, Denmark, Sweden",2014,1
+"Norway, Denmark, Netherlands, Sweden",2018,1
+"New Zealand, United States",2003,1
+"Netherlands, Germany, Denmark, United Kingdom",2017,1
+"Netherlands, Germany, Italy, Canada",2017,1
+"Netherlands, United States",2017,1
+New Zealand,2019,1
+"New Zealand, United Kingdom",2017,1
+"New Zealand, United Kingdom, Australia",2007,1
+"New Zealand, United States",2002,1
+Nigeria,2009,1
+"Norway, Denmark",2020,1
+Nigeria,2012,1
+Nigeria,2013,1
+West Germany,1977,1
+"Nigeria, United Kingdom",2012,1
+Norway,2007,1
+Norway,2013,1
+Norway,2018,1
+"Peru, United States, United Kingdom",2016,1
+Philippines,2006,1
+Philippines,2007,1
+"Romania, France, Switzerland, Germany",2010,1
+"Portugal, Spain",2016,1
+"Puerto Rico, United States, Colombia",2018,1
+Romania,2005,1
+Romania,2014,1
+Romania,2015,1
+Romania,2016,1
+"Romania, Bulgaria, Hungary",2015,1
+"Romania, United Kingdom",2018,1
+"Poland, West Germany",1985,1
+"Romania, United States",2019,1
+Russia,2013,1
+Russia,2014,1
+Russia,2016,1
+Russia,2020,1
+"Russia, Poland, Serbia",2018,1
+"Russia, Spain",2015,1
+"Portugal, France, Poland, United States",2016,1
+"Poland, United States",2020,1
+Philippines,2009,1
+Poland,1970,1
+Philippines,2010,1
+Philippines,2011,1
+"Philippines, Canada, United Kingdom, United States",2012,1
+"Philippines, Qatar",2016,1
+"Philippines, Singapore",2019,1
+"Philippines, United States",2019,1
+Poland,1967,1
+Poland,1973,1
+"Poland, United States",2019,1
+Poland,1978,1
+Poland,1982,1
+Poland,1983,1
+Poland,1990,1
+Poland,2014,1
+Poland,2015,1
+"Poland,",1975,1
+"Netherlands, Denmark, South Africa",2015,1
+"Netherlands, Denmark, France, Germany",2016,1
+"Netherlands, Belgium, United Kingdom, United States",2015,1
+"Kenya, United States",2014,1
+"Japan, Canada, United States",2018,1
+"Japan, United States",2010,1
+"Japan, United States",2017,1
+"Japan, United States",2019,1
+Jordan,2019,1
+Kenya,2018,1
+Kenya,2019,1
+Kuwait,1981,1
+Japan,2000,1
+Kuwait,2018,1
+Lebanon,1975,1
+Lebanon,2005,1
+Lebanon,2010,1
+Lebanon,2013,1
+Lebanon,2020,1
+"Lebanon, Canada, France",1979,1
+"Japan, Canada",2015,1
+Japan,1999,1
+"Lebanon, France",2003,1
+"Italy, Turkey",2017,1
+"Italy, France",2019,1
+"Italy, France, Switzerland",2017,1
+"Italy, Germany",2016,1
+"Italy, India",2016,1
+"Italy, South Africa, West Germany, Australia, United States",1986,1
+"Italy, Switzerland, Albania, Poland",2018,1
+"Italy, Switzerland, France, Germany",2018,1
+"Italy, United Kingdom, France",2019,1
+Japan,1997,1
+"Italy, United States",1968,1
+"Italy, United States, Argentina",2017,1
+"Jamaica, United States",2018,1
+Japan,1979,1
+Japan,1981,1
+Japan,1986,1
+Japan,1995,1
+"Lebanon, Canada, France",1980,1
+"Lebanon, Qatar",2015,1
+"Netherlands, Belgium, Germany, Jordan",2016,1
+"Mexico, United States",2014,1
+"Mexico, Argentina",2018,1
+"Mexico, Finland",2019,1
+"Mexico, France",2015,1
+"Mexico, Netherlands",2018,1
+"Mexico, Spain",2006,1
+"Mexico, Spain",2016,1
+"Mexico, United States",2010,1
+"Mexico, United States",2016,1
+Mexico,2007,1
+"Mexico, United States",2021,1
+"Mexico, United States, Spain, Colombia",2019,1
+Namibia,2019,1
+Netherlands,2006,1
+Netherlands,2016,1
+"Netherlands, Belgium",2016,1
+"Netherlands, Belgium",2018,1
+Mexico,2021,1
+Mexico,2001,1
+"Lebanon, United Arab Emirates, France, Switzerland, Germany",2014,1
+Malaysia,2014,1
+"Lebanon, United States, United Arab Emirates",2012,1
+Malaysia,2003,1
+Malaysia,2004,1
+Malaysia,2006,1
+Malaysia,2009,1
+Malaysia,2011,1
+Malaysia,2013,1
+Malaysia,2016,1
+Mexico,1999,1
+Malaysia,2019,1
+Malaysia,2020,1
+"Malaysia, Singapore, Hong Kong",2015,1
+"Mauritius, South Africa",2019,1
+Mexico,1979,1
+Mexico,1991,1
+Mexico,1992,1
+"Russia, United States",2014,1
+"Russia, United States, China",2015,1
+Saudi Arabia,2008,1
+"Turkey, South Korea",2018,1
+"Thailand, United States",2017,1
+"Thailand, United States",2020,1
+Turkey,2001,1
+Turkey,2021,1
+"Turkey, Azerbaijan",2013,1
+"Turkey, France, Germany, Poland",2016,1
+"Turkey, India",2016,1
+"Turkey, United States",2010,1
+"Thailand, Canada, United States",2014,1
+"Turkey, United States",2017,1
+Ukraine,2015,1
+Ukraine,2017,1
+United Arab Emirates,2014,1
+United Arab Emirates,2015,1
+United Arab Emirates,2020,1
+"United Arab Emirates, Jordan",2015,1
+"Thailand, China, United States",2019,1
+Thailand,2013,1
+"United Arab Emirates, Romania",2016,1
+Taiwan,2010,1
+"Switzerland, France",2016,1
+"Switzerland, France, Belgium, United States",2017,1
+"Switzerland, United Kingdom, United States",2013,1
+"Switzerland, United States",2017,1
+"Switzerland, Vatican City, Italy, Germany, France",2018,1
+Taiwan,2003,1
+Taiwan,2008,1
+"Taiwan, China",2020,1
+Thailand,2008,1
+"Taiwan, China, France, United States",2018,1
+"Taiwan, Hong Kong, United States, China",2000,1
+"Taiwan, Malaysia",2020,1
+Thailand,1999,1
+Thailand,2002,1
+Thailand,2004,1
+Thailand,2005,1
+"United Arab Emirates, Jordan, Lebanon",2014,1
+"United Arab Emirates, United Kingdom, India",2018,1
+Switzerland,2015,1
+"United Kingdom, Canada, United States",2016,1
+"United Kingdom, Brazil, Germany",2014,1
+"United Kingdom, Canada",2009,1
+"United Kingdom, Canada",2018,1
+"United Kingdom, Canada, France, United States",2009,1
+"United Kingdom, Canada, Italy",2016,1
+"United Kingdom, Canada, Japan",2017,1
+"United Kingdom, Canada, United States",2015,1
+"United Kingdom, Canada, United States",2017,1
+"United Kingdom, Belgium",2018,1
+"United Kingdom, Canada, United States",2021,1
+"United Kingdom, Canada, United States, Cayman Islands",2018,1
+"United Kingdom, Canada, United States, Germany",2018,1
+"United Kingdom, China",2020,1
+"United Kingdom, China, United States",2014,1
+"United Kingdom, China, United States, India",2017,1
+"United Kingdom, Czech Republic, Germany, United States",2005,1
+"United Kingdom, Belgium, Sweden",2019,1
+"United Kingdom, Australia, Canada, United States",2010,1
+"United Arab Emirates, United States",2014,1
+United Kingdom,1989,1
+"United Arab Emirates, United States",2018,1
+"United Arab Emirates, United States, United Kingdom",2017,1
+United Kingdom,1974,1
+United Kingdom,1975,1
+United Kingdom,1977,1
+United Kingdom,1979,1
+United Kingdom,1982,1
+United Kingdom,1991,1
+"United Kingdom, Australia",2020,1
+United Kingdom,1993,1
+United Kingdom,1996,1
+United Kingdom,2000,1
+United Kingdom,2002,1
+United Kingdom,2005,1
+United Kingdom,2021,1
+"United Kingdom,",2014,1
+Switzerland,2018,1
+"Sweden, United States",2019,1
+Saudi Arabia,2013,1
+"South Africa, United States, New Zealand, Canada",2009,1
+"South Africa, Angola",2020,1
+"South Africa, China, United States",2017,1
+"South Africa, Germany, Netherlands, France",2017,1
+"South Africa, Nigeria",2017,1
+"South Africa, United States",2002,1
+"South Africa, United States",2018,1
+"South Africa, United States, Germany",2016,1
+South Korea,2004,1
+"Somalia, Kenya, Sudan, South Africa, United States",2017,1
+South Korea,2011,1
+South Korea,2021,1
+"South Korea, Canada, United States, China",2016,1
+"South Korea, China",2016,1
+"South Korea, China, United States",2015,1
+"South Korea, Czech Republic",2013,1
+"South Korea, France",2016,1
+South Africa,2010,1
+"Slovenia, Croatia, Germany, Czech Republic, Qatar",2016,1
+"South Korea, United States",2009,1
+"Serbia, United States",2017,1
+Saudi Arabia,2014,1
+Saudi Arabia,2016,1
+"Saudi Arabia, Netherlands, Germany, Jordan, United Arab Emirates, United States",2012,1
+"Saudi Arabia, Syria, Egypt, Lebanon, Kuwait",2017,1
+"Saudi Arabia, United Arab Emirates",2006,1
+Senegal,2019,1
+"Serbia, South Korea, Slovenia",2016,1
+"Serbia, United States",2019,1
+"Singapore, United States",2019,1
+Singapore,2013,1
+Singapore,2018,1
+Singapore,2020,1
+"Singapore, France",2016,1
+"Singapore, Japan, France",2018,1
+"Singapore, Malaysia",2019,1
+"Singapore, United States",2017,1
+"South Korea, Japan",2018,1
+"South Korea, United States",2017,1
+"Sweden, United Kingdom, Finland",2012,1
+"Spain, Portugal",2018,1
+"Spain, Germany, Denmark, United States",2020,1
+"Spain, Italy",2018,1
+"Spain, Italy",2019,1
+"Spain, Italy, Argentina",2016,1
+"Spain, Mexico",2016,1
+"Spain, Mexico",2017,1
+"Spain, Mexico, France",2010,1
+"Spain, Switzerland",2016,1
+"Spain, Germany",2019,1
+"Spain, Thailand, United States",2012,1
+"Spain, United Kingdom",2017,1
+"Spain, United Kingdom",2019,1
+"Spain, United Kingdom, United States",2009,1
+"Spain, United States",2016,1
+"Sweden, Czech Republic, United Kingdom, Denmark, Netherlands",2005,1
+"Sweden, Netherlands",2017,1
+"Spain, Germany",2020,1
+"Spain, Germany",2017,1
+"South Korea, United States",2019,1
+"Spain, Belgium, Switzerland, United States, China, United Kingdom",2017,1
+"Soviet Union, India",1980,1
+Spain,2008,1
+Spain,2014,1
+Spain,2021,1
+"Spain, Argentina",2016,1
+"Spain, Argentina",2017,1
+"Spain, Belgium",2018,1
+"Spain, Canada, United States",2017,1
+"Spain, France, Uruguay",2015,1
+"Spain, Colombia",2017,1
+"Spain, Cuba",2016,1
+"Spain, France",2019,1
+"Spain, France, Canada",2019,1
+"Spain, France, Canada, United States",2019,1
+"Spain, France, Italy",2019,1
+"Spain, France, United States",2019,1
+Argentina,1985,1
