@@ -2,14 +2,25 @@
 
 Este é um projeto feito para a disciplina de visualização de dados.
 ## Descrição
-Este é um trabalho feito em um conjunto de dados de programas de TV e filmes disponíveis na Netflix. Essa base de dados tem: *show_id*, *type*,	*title*,	*director*,	*cast*,	*country*,	*date_added*,	*release_year*,	*rating*, *duration*, *listed_in* e	*description*.
+Este é um trabalho feito em um conjunto de dados de programas de TV e filmes disponíveis na Netflix. Essa base de dados tem 7787 valores.
+E contem 12 colunas: 
+* *show_id*: id único dos filmes / séries;
+* *type*: filmes ou séries;
+* *title*:	título dos filmes / séries;
+* *director*:	diretor dos filmes / séries;
+* *cast*:	ator dos filmes / séries;
+* *country*:	país onde foi produzido;
+* *date_added*:	data em que foi adicionado ao Netflix;
+* *release_year*:	ano de lançamento dos filmes / séries;
+* *rating*: Avaliação dos filmes / séries;
+* *duration*: duração: em minutos ou número de temporadas;
+* *listed_in*: categoria;
+* *description*: resumo da descrição;
+
 ### Fonte
-A base de dados da [Netflix](https://www.kaggle.com/shivamb/netflix-shows) foi coletado do kaggle. A base de dados é coletado do Flixable, um mecanismo de pesquisa de terceiros da Netflix.
+A base de dados da **Netflix** foi pega do [kaggle](https://www.kaggle.com/shivamb/netflix-shows). Essa base é coletado do Flixable, um mecanismo de pesquisa de terceiros da Netflix.
 
-
-
-All visualization in links:
-
+## Link das visualizações
 * https://public.flourish.studio/visualisation/5792875/
 * https://public.flourish.studio/visualisation/5793016/
 * https://public.flourish.studio/visualisation/5793123/
