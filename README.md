@@ -20,10 +20,14 @@ E contem 12 colunas:
 ### Fonte
 A base de dados da **Netflix** foi pega do [kaggle](https://www.kaggle.com/shivamb/netflix-shows). Essa base é coletado do Flixable, um mecanismo de pesquisa de terceiros da Netflix.
 
-## Link das visualizações
+## Link das visualizações - v 1.0
 * https://public.flourish.studio/visualisation/5792875/
 * https://public.flourish.studio/visualisation/5793016/
 * https://public.flourish.studio/visualisation/5793123/
 * https://public.flourish.studio/visualisation/5793144/
 * https://public.flourish.studio/visualisation/5793185/
 * https://public.flourish.studio/visualisation/5793205/
+
+## Link das visualizações - v 2.0
+* https://public.flourish.studio/visualisation/6195528/
+* https://public.flourish.studio/visualisation/6195923/
